@@ -22,5 +22,7 @@ Inicio
       Fimse  
     Fimse codigo do aluno menor que 1   
 Fim
+
+![Fluxograma](https://github.com/Feliciano-tech/Atividade_Estrutura_de_Repeticao_01/blob/main/Fluxograma-Media-Fundamental.png)
   
       
